@@ -7,7 +7,7 @@ export const usersData: User[] = [
     email: 'admin@laptopmarket.com',
     role: 'admin',
     isActive: true,
-    createdAt: new Date('2024-01-01')
+    createdAt: new Date('2024-01-01'),
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const usersData: User[] = [
     email: 'john@example.com',
     role: 'user',
     isActive: true,
-    createdAt: new Date('2024-02-15')
+    createdAt: new Date('2024-02-15'),
   },
   {
     id: 3,
@@ -23,6 +23,6 @@ export const usersData: User[] = [
     email: 'jane@example.com',
     role: 'user',
     isActive: true,
-    createdAt: new Date('2024-03-10')
-  }
+    createdAt: new Date('2024-03-10'),
+  },
 ];
