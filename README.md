@@ -117,7 +117,7 @@ Serverul va fi disponibil la `http://localhost:3000`.
 
 ## Note Importante
 
-- Pentru endpoint-urile cu roluri (users și admin), dacă nu ai autentificare setată, vei primi eroare 403. Poți testa GET-urile publice mai întâi.
+
 - Verifică răspunsurile în tab-ul "Response" din Postman (ar trebui să fie JSON cu "success": true).
 - Dacă primești erori (ex. ID invalid), încearcă cu ID-uri existente (folosește GET pentru a vedea datele).
 - Pentru a testa autentificarea, adaugă header-ul Authorization dacă e implementat (nu în acest proiect de bază).
