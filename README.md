@@ -122,8 +122,5 @@ Serverul va fi disponibil la `http://localhost:3000`.
 - Dacă primești erori (ex. ID invalid), încearcă cu ID-uri existente (folosește GET pentru a vedea datele).
 
 
-## Schimbări Adăugate
-
-- Funcții CRUD adăugate în servicii și controlere pentru produse, utilizatori și admin.
 - Server pornit și rute mapate fără erori.
 - Datele sunt stocate în memorie (array-uri statice), deci se resetează la repornirea serverului.
