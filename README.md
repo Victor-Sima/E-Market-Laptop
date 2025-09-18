@@ -65,7 +65,6 @@ Serverul va fi disponibil la `http://localhost:3000`.
 - **URL:** `http://localhost:3000/products/1`
 - **Descriere:** Șterge un laptop. Răspuns: Confirmare ștergere.
 
-## Endpoint-uri pentru Utilizatori (Users) - necesită roluri (admin pentru POST/PUT/DELETE)
 
 ### GET /users/list
 - **Metodă:** GET
