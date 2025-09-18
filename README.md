@@ -120,7 +120,7 @@ Serverul va fi disponibil la `http://localhost:3000`.
 
 - Verifică răspunsurile în tab-ul "Response" din Postman (ar trebui să fie JSON cu "success": true).
 - Dacă primești erori (ex. ID invalid), încearcă cu ID-uri existente (folosește GET pentru a vedea datele).
-- Pentru a testa autentificarea, adaugă header-ul Authorization dacă e implementat (nu în acest proiect de bază).
+
 
 ## Schimbări Adăugate
 
